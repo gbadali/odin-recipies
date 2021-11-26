@@ -1,0 +1,19 @@
+/* style.css */
+
+* {
+    font-family: cursive;
+}
+
+li {
+    font-family: sans-serif;
+}
+
+ul li {
+    color:darkolivegreen;
+    list-style-type: square;
+}
+
+ol li {
+    color:darkseagreen;
+}
+
